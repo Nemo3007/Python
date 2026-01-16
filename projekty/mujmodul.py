@@ -1,0 +1,1 @@
+mojecislo=42
